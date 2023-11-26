@@ -1,1 +1,4 @@
 trail commit
+
+Django
+- MVT(Model View Template) architecture
